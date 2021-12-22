@@ -1,0 +1,6 @@
+[requires]
+entt/3.8.1
+sdl/2.0.18
+
+[generators]
+premake
